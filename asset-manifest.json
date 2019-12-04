@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Front-Heaven/static/css/main.b100e6da.chunk.css",
-    "main.js": "/Front-Heaven/static/js/main.2736a640.chunk.js",
-    "main.js.map": "/Front-Heaven/static/js/main.2736a640.chunk.js.map",
+    "main.js": "/Front-Heaven/static/js/main.4b8a0425.chunk.js",
+    "main.js.map": "/Front-Heaven/static/js/main.4b8a0425.chunk.js.map",
     "runtime-main.js": "/Front-Heaven/static/js/runtime-main.d04e6977.js",
     "runtime-main.js.map": "/Front-Heaven/static/js/runtime-main.d04e6977.js.map",
     "static/js/2.c3868944.chunk.js": "/Front-Heaven/static/js/2.c3868944.chunk.js",
     "static/js/2.c3868944.chunk.js.map": "/Front-Heaven/static/js/2.c3868944.chunk.js.map",
     "index.html": "/Front-Heaven/index.html",
-    "precache-manifest.8725fd09601fa516ea14d7caaa9bd2b9.js": "/Front-Heaven/precache-manifest.8725fd09601fa516ea14d7caaa9bd2b9.js",
+    "precache-manifest.d0773a073e160d816d43dd50eaf12247.js": "/Front-Heaven/precache-manifest.d0773a073e160d816d43dd50eaf12247.js",
     "service-worker.js": "/Front-Heaven/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/Front-Heaven/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/Front-Heaven/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d04e6977.js",
     "static/js/2.c3868944.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.2736a640.chunk.js"
+    "static/js/main.4b8a0425.chunk.js"
   ]
 }
